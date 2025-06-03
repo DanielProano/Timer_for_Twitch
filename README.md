@@ -1,1 +1,1 @@
-![Reaching_for the_Stars](https://github.com/user-attachments/assets/956f4dee-2ad9-4ab3-943d-a0826b18bf8a)
+![A_Simple Timer_GUI](https://github.com/user-attachments/assets/550804c4-8333-4c43-83a2-f0d89820570f)
